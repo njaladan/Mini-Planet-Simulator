@@ -9,7 +9,7 @@ This isn't something big that I'm currently making, but just something small tha
 ### How?
 Glad you asked! Planet-Simu is easy to use. When the program, first opens, select option 1 or 2 based on what you want to see:
 
-![the planets](https://raw.githubusercontent.com/njaladan/2048-python/master/img/selection_planets.JPG)
+![the planets](https://raw.githubusercontent.com/njaladan/planet-simu-2014/master/img/selection_planets.JPG)
 
 After you make your selection, the actual simulator will open. After that, just right click and drag to pan.
 
